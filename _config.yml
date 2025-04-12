@@ -151,6 +151,10 @@ paginate: 10
 # The base URL of your site
 baseurl: ""
 
+# Include these additional files and directories
+# .well-known
+include: [".well-known"]
+
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:

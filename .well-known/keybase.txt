@@ -1,0 +1,88 @@
+==================================================================
+https://keybase.io/xaxas
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.jtopia.org
+  * I am xaxas (https://keybase.io/xaxas) on keybase.
+  * I have a public key with fingerprint 9A18 5717 E638 EA7B 8F43  89A6 CD73 0551 90A2 FC54
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01013e81dd4cf46b73988792a38268e6e4453410b5d7d30dab8740dc7df26924673b0a",
+      "fingerprint": "9a185717e638ea7b8f4389a6cd73055190a2fc54",
+      "host": "keybase.io",
+      "key_id": "cd73055190a2fc54",
+      "kid": "01013e81dd4cf46b73988792a38268e6e4453410b5d7d30dab8740dc7df26924673b0a",
+      "uid": "f3f08b8a7c385565e3edb459b0237219",
+      "username": "xaxas"
+    },
+    "merkle_root": {
+      "ctime": 1644786982,
+      "hash_meta": "d0e586b34bbf398f216745e464313b6a13768e7602ee4a3deddfee18280b0c51",
+      "seqno": 21864424
+    },
+    "revoke": {
+      "sig_ids": [
+        "06da6e41b489afacfbe4d1ceb3a5f65762209b039aea4a7dcacbb9113aa641e90f"
+      ]
+    },
+    "service": {
+      "hostname": "www.jtopia.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1644787036,
+  "expire_in": 157680000,
+  "prev": "c9243dc850b123d1368e49b238cd5dc078d4c215e9576d7874dbc1bd7ed44d59",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMPWAnicrVNrbBVFGL0ttEij7a0KSBSQpQmCTbuzM/sqiEAojwaQBg3BQq8zO7O9
+S9u7l93tC3pNCDa80gKVJqiYGgJCYnlWHooCrfa2AgV5poBAICDKI0BLlVeCcxtM
+NPGn+2ezO+ec73zn++bHF3r5kuLa3YTcVeufvBt3uLm0xEf6lsxZKBCbVghZC4VC
+1vNiRZS5XqDQokKWIAIRQKYBSpFhIoWoUNc0VZcw1CRFYwpDSIYIiESmKoUixURT
+kUgNlZqSoktIUSERsZAumFaogDlhxwp5XFbHQJNVoDIFagyrRDMR1HSsGFSFoiwD
+XcSSaciIE4O2G2NwcwS7LMOy+T/+Eeix9x/4/9l3SY+cCU1RIxpWDajJsiIzyChB
+sk5ECaoS0GNAlzkhXMw4uhyXY1eIpAvFzCksYgHHtr1YsoZnxc6BgpCqKbom8e6w
+GwwUMw9zGhWZrCkEIkJMbteUgKIimSEFQQCJggFUuXVVESXGEIaUUWoyBjRJE4lo
+yICbcNn8kC1kSUDjNSTELTis1C5ksequVcBDc4WsPEFUKOYRAIJ46CY2TMIQBQYj
+EMumIquKJIm8N6hjhhFWqYENQnQAIMYKAkwXTWFuJFbNKbWMHvHYlJ51X1ZWljHP
+s8MWzrCdAm4q7NiebdhF/CzoeWE3KxaNVxHuATMSeCYTIFaI8i3hjFLmuJYd4lFx
+5L9SU0WopAusPGw5LGDFENytJvInVoeVxnaCjw9SQ5NFAiRIAeShIZ1IUDOoTA1R
+1fhOSEBmOqdSLokoMQChKqMIUVn/R4x8QB4u4Jo8uxD2ShwmRJqb5vT2xSX5EhPi
+Y9fHl9TX//el+r4o5Wn5XWlz60/B++G865kv/TJw+4Ylt1PXNS33fZS/YHdFytR6
+I25r/cExk3Ie5R5ccPrM8eCQTKnuxfbUc/cv7R77NK/i5uBJ3f4RY/cd3fuFcuVB
+8lqwasORl1c2HXzuxEq6vSuQ37piRmdxsHvM6KXW3OuDpG9PqM3Z/X7uM69x2Z7V
+qTVJ/TOH77x1h9WdHh5akZzZ8umNcZ1TH6cMPz6hfVNbdO/j+1f9Dz+fnzPuUdXM
+kQ1vZh86k7Z+08XK6Z/c6TVOPnZq6Rtpj149NnRwbv0AfzxYG40eClZ29L0b2ed1
+Pa5MiN6usYf5v1J3NfxqHK3u3LHou61qU0P7EvqHvWLGBweWZ7WNWjfmQpH95cpl
+OaDu3oDPfijwfZzydNDZNZdmpR1R475JSPwwuf58cM6UaTPrFiW2nLq8pHZIc9e1
+PtXjt052+zRWdbfcaLxTH554tGXn24NqB45kpHfjqdlpa1Mme7Y2sXWPE7/3YduB
+u+3nu7dcnlGld6befqC57rU1Z2sz/U8Sp0QOp5e/VXQ1nx3KNjNG5ZYq+ROqh4Vp
+2Yivq9TXxOcX37xVW5YYXbzaPhntPyuxOb56VuXEjsqIf2x2zuvtba/4KzdEzu2E
+5n4u8fv4zfd6v5c5/co7s/vZJwbsWLdodPKWjmvx+9uMi8aU9/Nq/jz526Zzu7I7
+tk24MC1uY/Ty0oaNZV3OttYjVegvKjgD2w==
+=HNZ5
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/xaxas
+
+==================================================================
+
