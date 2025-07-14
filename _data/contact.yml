@@ -3,26 +3,34 @@
 #- type: github
 #  icon: "fab fa-github"
 
+- type: discord
+  icon: 'fa-brands fa-discord'
+  url: 'https://discord.gg/sM86FcNVVm'
+
 - type: bluesky
   icon: 'fa-brands fa-bluesky'
   url: 'https://bsky.app/profile/jtopian.bsky.social'                   # Fill with your Bluesky profile link
 
-- type: linkedin
-  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-  url:  'https://www.linkedin.com/in/jtopian/'                  # Fill with your Linkedin homepage
+- type: mastodon
+  icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
+  url:  'https://mastodon.social/@jtopian'                  # Fill with your Mastodon account page, rel="me" will be applied for verification
+
+- type: threads
+  icon: 'fa-brands fa-threads'
+  url: 'https://www.threads.net/@j.t.anderson'                   # Fill with your Threads profile link
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
+- type: linkedin
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.linkedin.com/in/jtopian/'                  # Fill with your Linkedin homepage
+
 - type: rss
   icon: "fas fa-rss"
   noblank: true
 # Uncomment and complete the url below to enable more contact options
-
-- type: mastodon
-  icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
-  url:  'https://mastodon.social/@jtopian'                  # Fill with your Mastodon account page, rel="me" will be applied for verification
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
@@ -33,10 +41,3 @@
 #   icon: 'fa-brands fa-reddit'
 #   url: ''                   # Fill with your Reddit profile link
 #
-- type: threads
-  icon: 'fa-brands fa-threads'
-  url: 'https://www.threads.net/@j.t.anderson'                   # Fill with your Threads profile link
-
-- type: discord
-  icon: 'fa-brands fa-discord'
-  url: 'https://discord.gg/sM86FcNVVm'
