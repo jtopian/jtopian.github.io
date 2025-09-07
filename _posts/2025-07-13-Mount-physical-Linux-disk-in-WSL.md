@@ -47,7 +47,7 @@ then
   then
     echo Creating chroot from partition: $1
     cryptsetup open $1 linux-btrfs
-    mount -t btrfs -o noatime,compress=zstd,space_cache,subvol=@root /dev/mapper/linux-btrfs /mnt/arch
+    mount -t btrfs -o noatime,compress=zstd,space_cache=v2,subvol=@root /dev/mapper/linux-btrfs /mnt/arch
     for f in dev sys proc; do mount -o bind /$f /mnt/arch/$f; done
     chroot /mnt/arch/ /bin/bash
   else
