@@ -6,7 +6,7 @@ tags: [linux, flatpak, steam]
 ---
 
 ## Linux Software
-On an immutable distro like SteamOS or Bazzite, a lot of your software is going to come from the Discover store. This installs apps using a system called Flatpak, which isolates each app in a container separated from the rest of the system. You have to grant permissions similar to an Android/iOS app. So grab [Flatsea](appstream:com.github.tchx84.Flatseal) from Discover, it's used for managing those permissions. Most apps won't need any adjustments, but if you need to grant access to a folder, or your webcam or something, it'll be in there.
+On an immutable distro like SteamOS or Bazzite, a lot of your software is going to come from the Discover store. This installs apps using a system called Flatpak, which isolates each app in a container separated from the rest of the system. You have to grant permissions similar to an Android/iOS app. So grab [Flatseal](appstream:com.github.tchx84.Flatseal) from Discover, it's used for managing those permissions. Most apps won't need any adjustments, but if you need to grant access to a folder, or your webcam or something, it'll be in there.
 
 There's lots of free games and apps in Discover, take some time to browse through the different categories in there, you'll find some interesting stuff.
 
